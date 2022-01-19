@@ -11,9 +11,7 @@ KATAMINO is a puzzle game produced by Gigamic.
 
 ---
 
-(日本語)
-
-# KATAMINO-SOLVER
+# KATAMINO_solutions
 
 KATAMINOはGigamic社から発売されているKATAMINOは12個のペントミノを使って長方形を作るパズルゲームです。
 
