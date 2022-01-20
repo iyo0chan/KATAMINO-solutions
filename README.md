@@ -1,6 +1,7 @@
 # KATAMINO_solutions
 
 Program for solving KATAMINO made by Python. 
+
 KATAMINO is a puzzle game produced by Gigamic.
 
 ![sample](https://github.com/iyo0chan/KATAMINO-solutions/blob/main/sample.png)
